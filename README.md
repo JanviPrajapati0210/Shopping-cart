@@ -21,12 +21,10 @@
 
 💰 Billing Rules:
 
-Category         	Calculation
-Subtotal	       Sum of (price × quantity)
-Discount	       10% if subtotal > ₹1000
-GST            	 18% applied after discount
-Final Amount	   subtotal – discount + GST
-
+- Subtotal → Total of (price × quantity)
+- Discount → 10% applied if subtotal is greater than ₹1000
+- GST → 18% calculated after discount
+- Final Amount → subtotal − discount + GST
 
 🛠 Tech Stack
 
