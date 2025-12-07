@@ -27,6 +27,6 @@
 
 🛠 Tech Stack
 
-Language: Python
-Interface: CLI (Command Line Interface)
-File Format: UTF-8 encoded .txt invoice
+- Language: Python
+- Interface: CLI (Command Line Interface)
+- File Format: UTF-8 encoded .txt invoice
