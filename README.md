@@ -1,6 +1,6 @@
 📌 E-Commerce Order Processor – Python (CLI)
 
-- A menu-driven Python CLI application for processing e-commerce orders.
+- A menu-driven Python CLI program for processing e-commerce orders.
 - Users can browse a catalog, manage a shopping cart, generate bill summaries, and export invoices with GST and discount applied.
 
 🚀 Features 
